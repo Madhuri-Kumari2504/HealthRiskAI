@@ -68,8 +68,8 @@ HealthRiskAI/
 ├── models/
 ├── datasets/
 ├── README.md
-│
-└── assets/
+├── requirements.txt
+└── HealthRiskAI_Technical_Report.docx
 ```
 
 ---
