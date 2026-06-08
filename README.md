@@ -18,6 +18,14 @@ The application helps users assess:
 
 ---
 
+## 🌐 Live Demo
+
+🚀 **Access the deployed application here:**
+
+**https://healthriskai-fbvjkytvktmxkwrxcmuy8w.streamlit.app/**
+
+---
+
 ## 🚀 Features
 
 ### ❤️ Heart Disease Prediction
@@ -67,6 +75,7 @@ HealthRiskAI/
 ├── app.py
 ├── models/
 ├── datasets/
+├── Model_training_code/
 ├── README.md
 ├── requirements.txt
 └── HealthRiskAI_Technical_Report.docx
@@ -98,16 +107,14 @@ pip install -r requirements.txt
 
 ## ▶️ Running the Application
 
-Run the Streamlit dashboard:
-
 ```bash
-python -m streamlit run app.py
+streamlit run app.py
 ```
 
 or
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 ---
@@ -129,5 +136,14 @@ streamlit run app.py
 - AI Health Assistant
 - Cloud Deployment
 - Real-Time Health Monitoring
+
+---
+
+## 👨‍💻 Author
+
+**Madhuri Kumari**
+
+- GitHub: https://github.com/Madhuri-Kumari2504
+- LinkedIn: https://www.linkedin.com/in/madhuri-kumari-20071332b/
 
 ---
