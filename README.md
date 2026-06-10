@@ -78,7 +78,7 @@ HealthRiskAI/
 ├── Model_training_code/
 ├── README.md
 ├── requirements.txt
-└── HealthRiskAI_Technical_Report.docx
+└── HealthRiskAI_Technical_Report.pdf
 ```
 
 ---
