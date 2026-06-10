@@ -31,8 +31,7 @@ The application helps users assess:
 🚀 **A complete demonstration video has been prepared to showcase the functionality of the
 HealthRisk AI Dashboard:**
 
-**https://drive.google.com/file/d/138ewReRkYDNMr6FQB4DwGJ2ORap6KZ-o/view?
-usp=sharing**
+**https://drive.google.com/file/d/138ewReRkYDNMr6FQB4DwGJ2ORap6KZ-o/view**
 
 ---
 
